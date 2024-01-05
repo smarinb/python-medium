@@ -36,4 +36,18 @@ my_dict = {"Nombre":"Sergio", "Apellido": "Marín", "Edad":36}
 
 my_list = [0]
 #TypeError
-print(my_list["Nombre"])
+#print(my_list["Nombre"])
+
+#ImportError
+
+#from math import Pi as PI_VALUE
+
+#ValueError
+
+
+#my_int = int("10 Años")
+#print(type(my_int))
+
+
+#ZeroDivisionError
+print(10 / 0)
